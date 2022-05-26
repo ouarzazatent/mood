@@ -1,0 +1,578 @@
+[
+ {
+  "num_interne": 1,
+  "nom_com": 1,
+  "terminus1": "Porte Atlantique",
+  "terminus2": "Les Trois Mâts",
+  "categorie": "tram",
+  "couleurBG": "#ea4335",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 2,
+  "nom_com": 2,
+  "terminus1": "CHU Pasteur",
+  "terminus2": "SALÉRIN Graudegnan",
+  "categorie": "tram",
+  "couleurBG": "#00a8ff",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 3,
+  "nom_com": 3,
+  "terminus1": "LE QUEVROUX Gare",
+  "terminus2": "CAMPMALO Mairie",
+  "categorie": "tram",
+  "couleurBG": "#28ba00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 4,
+  "nom_com": 4,
+  "terminus1": "Point Bleu - Zénith",
+  "terminus2": "LA TRINITÉ Gare",
+  "categorie": "tram",
+  "couleurBG": "#76369b",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 5,
+  "nom_com": 5,
+  "terminus1": "Gallieni - Musée des Beaux-Arts",
+  "terminus2": "LUSCANS Petit Val",
+  "categorie": "tram",
+  "couleurBG": "#ff6c00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 906,
+  "nom_com": 6,
+  "terminus1": "Aéroport",
+  "terminus2": "LANDÉRIEC Gare",
+  "categorie": "tram",
+  "couleurBG": "#1e9bb6",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 907,
+  "nom_com": 7,
+  "terminus1": "Gare Duchalet",
+  "terminus2": "SALÉRIN Gare",
+  "categorie": "tram",
+  "couleurBG": "#f057d8",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 908,
+  "nom_com": 8,
+  "terminus1": "GRANDCAMP",
+  "terminus2": "St-PIERRE LE MAYOLAY",
+  "categorie": "tram",
+  "couleurBG": "#a74c00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 801,
+  "nom_com": "C1",
+  "terminus1": "Gambetta",
+  "terminus2": "LANDERIEC Charles de Gaulle",
+  "categorie": "chronobus",
+  "couleurBG": "#ffdf00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 802,
+  "nom_com": "C2",
+  "terminus1": "LE MENEZ Maupertuis",
+  "terminus2": "CFA \/ CHAMPLAIN Bel-Air",
+  "categorie": "chronobus",
+  "couleurBG": "#ff8d00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 803,
+  "nom_com": "C3",
+  "terminus1": "Thiers-Victor Hugo",
+  "terminus2": "SALÉRIN Gare",
+  "categorie": "chronobus",
+  "couleurBG": "#ff4a00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 804,
+  "nom_com": "C4",
+  "terminus1": "Porte Ouest",
+  "terminus2": "CESSON Centre",
+  "categorie": "chronobus",
+  "couleurBG": "#f6b800",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 805,
+  "nom_com": "C5",
+  "terminus1": "LUSCANS Atlanpole",
+  "terminus2": "CAMPMALO Plaine Saint-Laurent",
+  "categorie": "chronobus",
+  "couleurBG": "#ff6c00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 806,
+  "nom_com": "C6",
+  "terminus1": "Hôpital Sud",
+  "terminus2": "Clémenceau",
+  "categorie": "chronobus",
+  "couleurBG": "#e0da00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 807,
+  "nom_com": "C7",
+  "terminus1": "Gare des Facultés",
+  "terminus2": "LE QUEVROUX",
+  "categorie": "chronobus",
+  "couleurBG": "#bd9900",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 912,
+  "nom_com": "U",
+  "terminus1": "Beaulieu - Gahinet",
+  "terminus2": "Gare Duchalet",
+  "categorie": "navette",
+  "couleurBG": "#ff0032",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 10,
+  "nom_com": 10,
+  "terminus1": "St-Pierre",
+  "terminus2": "GUIPRÉ",
+  "categorie": "bus",
+  "couleurBG": "#34a853",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 11,
+  "nom_com": 11,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "Mondrillon",
+  "categorie": "bus",
+  "couleurBG": "#0541ba",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 12,
+  "nom_com": 12,
+  "terminus1": "Porte de Rimur",
+  "terminus2": "Verfontaine",
+  "categorie": "bus",
+  "couleurBG": "#ea3599",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 13,
+  "nom_com": 13,
+  "terminus1": "Thiers - Victor Hugo",
+  "terminus2": "P+R Ronoé",
+  "categorie": "bus",
+  "couleurBG": "#571aa3",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 14,
+  "nom_com": 14,
+  "terminus1": "Rives du Rhé",
+  "terminus2": "Kerfaïence",
+  "categorie": "bus",
+  "couleurBG": "#b1006d",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 15,
+  "nom_com": 15,
+  "terminus1": "Hôtel de Ville",
+  "terminus2": "LA TRINITÉ sur RHÉ L'Hermitage",
+  "categorie": "bus",
+  "couleurBG": "#46bdc6",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 16,
+  "nom_com": 16,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "LE QUEVROUX Mermoz",
+  "categorie": "bus",
+  "couleurBG": "#a74c00",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 17,
+  "nom_com": 17,
+  "terminus1": "Rives du Rhé",
+  "terminus2": "Porte Atlantique",
+  "categorie": "bus",
+  "couleurBG": "#007892",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 30,
+  "nom_com": 30,
+  "terminus1": "Porte de Rimur",
+  "terminus2": "Trois Mâts",
+  "categorie": "bus",
+  "couleurBG": "#ffd966",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 31,
+  "nom_com": 31,
+  "terminus1": "Point Bleu",
+  "terminus2": "Verdun",
+  "categorie": "bus",
+  "couleurBG": "#e4841f",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 32,
+  "nom_com": 32,
+  "terminus1": "Verfontaine",
+  "terminus2": "SALÉRIN Leclerc Graudegnan",
+  "categorie": "bus",
+  "couleurBG": "#34a853",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 33,
+  "nom_com": 33,
+  "terminus1": "Cantinolle",
+  "terminus2": "Hôpital Sud",
+  "categorie": "bus",
+  "couleurBG": "#e394ff",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 34,
+  "nom_com": 34,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "LUSCANS Poteau Rouge",
+  "categorie": "bus",
+  "couleurBG": "#1e9bb6",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 35,
+  "nom_com": 35,
+  "terminus1": "Lillebonne",
+  "terminus2": "LA VILLE-MAYOLAY",
+  "categorie": "bus",
+  "couleurBG": "#00b9ff",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 36,
+  "nom_com": 36,
+  "terminus1": "Point Bleu",
+  "terminus2": "PONT SAINT-CLAIR Kervouyec",
+  "categorie": "bus",
+  "couleurBG": "#ff6f52",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 37,
+  "nom_com": 37,
+  "terminus1": "Mondrillon",
+  "terminus2": "Rives du Rhé",
+  "categorie": "bus",
+  "couleurBG": "#9f82e7",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 38,
+  "nom_com": 38,
+  "terminus1": "Trois Mâts",
+  "terminus2": "LE QUEVROUX Gare",
+  "categorie": "bus",
+  "couleurBG": "#80c8bf",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 40,
+  "nom_com": 40,
+  "terminus1": "SALÉRIN Graudegnan",
+  "terminus2": "SALÉRIN Comoisans ZI",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 41,
+  "nom_com": 41,
+  "terminus1": "SALÉRIN Gare",
+  "terminus2": "SALÉRIN Armorbio",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 42,
+  "nom_com": 42,
+  "terminus1": "SALÉRIN Gare",
+  "terminus2": "MONTERRIN Port de Plaisance",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 43,
+  "nom_com": 43,
+  "terminus1": "Porte de la Trinité",
+  "terminus2": "SALÉRIN Gare",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 44,
+  "nom_com": 44,
+  "terminus1": "Porte de la Trinité",
+  "terminus2": "RÉDÉNAC Pointe Maritime",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 45,
+  "nom_com": 45,
+  "terminus1": "Porte de la Trinité",
+  "terminus2": "LA TRÊVE sous MAYOLAY",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 46,
+  "nom_com": 46,
+  "terminus1": "LE QUEVROUX Gare",
+  "terminus2": "BOSTÉRIAN",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 47,
+  "nom_com": 47,
+  "terminus1": "Trois Mâts",
+  "terminus2": "FONTELOUP-MAYOLAY",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 48,
+  "nom_com": 48,
+  "terminus1": "Trois Mâts",
+  "terminus2": "PONT-BIGNAN Centre",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 49,
+  "nom_com": 49,
+  "terminus1": "Porte de Rimur",
+  "terminus2": "PETIT-VIRY",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 50,
+  "nom_com": 50,
+  "terminus1": "Porte de Rimur",
+  "terminus2": "LANDENAC",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 51,
+  "nom_com": 51,
+  "terminus1": "Porte de Rimur",
+  "terminus2": "LANDÉRIEC ZI Ouest",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 52,
+  "nom_com": 52,
+  "terminus1": "Point Bleu",
+  "terminus2": "St-GILDAS-sur-RHÉ",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 53,
+  "nom_com": 53,
+  "terminus1": "Point Bleu",
+  "terminus2": "LOCMAËL",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 54,
+  "nom_com": 54,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "PLOUNEVEZ",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 55,
+  "nom_com": 55,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "LOCDIRY",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 56,
+  "nom_com": 56,
+  "terminus1": "Hôpital Sud",
+  "terminus2": "GRANDCAMP",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 57,
+  "nom_com": 57,
+  "terminus1": "Verfontaine",
+  "terminus2": "PLOUGUÉLEN",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 58,
+  "nom_com": 58,
+  "terminus1": "Maison Blanche",
+  "terminus2": "GUÉRAN Kerpont",
+  "categorie": "bus",
+  "couleurBG": "#4285f4",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 821,
+  "nom_com": "E1",
+  "terminus1": "LE QUEVROUX Gare",
+  "terminus2": "Porte Atlantique",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 822,
+  "nom_com": "E2",
+  "terminus1": "Verfontaine",
+  "terminus2": "SALÉRIN Gare (Breizhgo)",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 823,
+  "nom_com": "E3",
+  "terminus1": "Porte de Rimur",
+  "terminus2": "PONT-BIGNAN Ancienne Gare",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 824,
+  "nom_com": "E4",
+  "terminus1": "Trois Mâts",
+  "terminus2": "BOSTERIAN (Breizhgo)",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 825,
+  "nom_com": "E5",
+  "terminus1": "Hôpital Sud",
+  "terminus2": "GRANDCAMP D119 (Breizhgo)",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 826,
+  "nom_com": "E6",
+  "terminus1": "Point Bleu",
+  "terminus2": "LANDÉRIEC Gare",
+  "categorie": "express",
+  "couleurBG": "#ffff00",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 910,
+  "nom_com": "RhéVag'",
+  "terminus1": "Cantinolle - Jardin des Val. - Musée de la Mer - Plaisance - Capitainerie",
+  "terminus2": null,
+  "categorie": "navette",
+  "couleurBG": "#46bdc6",
+  "couleur": "#ffffff"
+ },
+ {
+  "num_interne": 911,
+  "nom_com": "Aéroport",
+  "terminus1": "Gare Duchalêt (par HDV)",
+  "terminus2": "Aéroport Saint-Servan Océane",
+  "categorie": "navette",
+  "couleurBG": "#fbbc04",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 913,
+  "nom_com": "CG",
+  "terminus1": "Gare Duchalêt",
+  "terminus2": "Rives du Rhé (par Croix Gaudin)",
+  "categorie": "navette",
+  "couleurBG": "#46c6ab",
+  "couleur": "#333333"
+ },
+ {
+  "num_interne": 901,
+  "nom_com": "N1",
+  "terminus1": "Hôtel de Ville <> Dombrière <> Campus de Fongrivet <> Point Bleu <> LANVILLIERS Centre <> Champ-Gauchard <> Bouvaines <> Hôtel de Ville",
+  "terminus2": null,
+  "categorie": "nooz",
+  "couleurBG": "#5d016d",
+  "couleur": "#f1c232"
+ },
+ {
+  "num_interne": 902,
+  "nom_com": "N2",
+  "terminus1": "Hôtel de Ville <> Jardins <> Urbania <> Lillebonne <> Fariand <> Maison Blanche <> Boutaut <> Perret <> CHU Pasteur <> Thiers <> Hôtel de Ville",
+  "terminus2": null,
+  "categorie": "nooz",
+  "couleurBG": "#05309b",
+  "couleur": "#f1c232"
+ },
+ {
+  "num_interne": 903,
+  "nom_com": "N3",
+  "terminus1": "Hôtel de Ville <> Gare Duchalet <> Haute-Melièvre <> P+R Rimur <> CAMPMALO Centre <> Challands <> Hôtel de Ville",
+  "terminus2": null,
+  "categorie": "nooz",
+  "couleurBG": "#006363",
+  "couleur": "#f1c232"
+ }
+]
